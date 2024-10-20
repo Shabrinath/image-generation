@@ -38,11 +38,11 @@ To run this script, you need the following:
 
 ## Usage
 
-Run the Streamlit application:
+1. Run the Streamlit application:
 ```
 streamlit run app.py
 
-Access the application by navigating to:
+2. Access the application by navigating to:
 ```
 http://localhost:8501
 Enter a prompt in the text input field, click "Generate Image," and the generated image will be displayed on the page.
