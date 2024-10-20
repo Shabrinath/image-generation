@@ -48,10 +48,10 @@ To run this script, you need the following:
    Enter a prompt in the text input field, click "Generate Image," and the generated image will be displayed on the page.
 
 ## Example Prompts
-"Sri lanka tea plantation"
-"A beautiful sunset over the mountains"
-"A futuristic city skyline"
+   "Sri lanka tea plantation"
+   "A beautiful sunset over the mountains"
+   "A futuristic city skyline"
 
 ## Notes
-Ensure you have adequate permissions set up in your AWS account for accessing Bedrock and generating images.
-This script is designed for educational purposes; consider optimizing it for production use.
+  Ensure you have adequate permissions set up in your AWS account for accessing Bedrock and generating images.
+  This script is designed for educational purposes; consider optimizing it for production use.
