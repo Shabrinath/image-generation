@@ -39,13 +39,13 @@ To run this script, you need the following:
 ## Usage
 
 1. Run the Streamlit application:
-```
-streamlit run app.py
+   ```
+   streamlit run app.py
 
 2. Access the application by navigating to:
-```
-http://localhost:8501
-Enter a prompt in the text input field, click "Generate Image," and the generated image will be displayed on the page.
+   ```
+   http://localhost:8501
+   Enter a prompt in the text input field, click "Generate Image," and the generated image will be displayed on the page.
 
 ## Example Prompts
 "Sri lanka tea plantation"
